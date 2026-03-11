@@ -2,7 +2,7 @@
 
 Estudiante de último año de Ingeniería en Telecomunicaciones de la UNRC.  
 Ayudante de segunda de la materia **Seminario de Informática** y del **Laboratorio de Sistemas Embebidos**.  
-A lo largo de mi formación academica he participado en el Lasem, GEA y distintas actividades extra curriculares.
+A lo largo de mi formación academica he participado en grupos de investigación como el Lasem, GEA y distintas actividades extra curriculares.
 
 Abierta a nuevas oportunidades de aprendizaje y colaboración.
 
